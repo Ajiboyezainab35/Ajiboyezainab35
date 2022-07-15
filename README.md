@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on building my technical skill in data analysis
+- 🔭 I’m currently working on building technical skills in data analysis
 - 🌱 I’m currently learning excel, powerbi, sql and python for data analysis
 - 👯 I’m looking to collaborate on data analysis projects
 - 🤔 I’m looking for help with learning materials to put me on the right track
